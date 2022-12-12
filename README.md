@@ -12,4 +12,4 @@ pip install textblob
 ```
 Em seguida, você pode importar a biblioteca e usar sua classe TextBlob para criar um objeto TextBlob a partir de uma sequência de texto. O objeto tem dois atributos, polaridade e subjetividade, que podem ser usados para determinar o sentimento do texto. A polaridade é um valor de flutuação dentro da faixa [-1, 1], onde -1 é o mais negativo e 1 é o mais positivo. A subjetividade também é um valor de flutuação dentro da faixa [0, 1], onde 0 é muito objetivo e 1 é muito subjetivo. Utilizando estes valores, você pode classificar o sentimento de um texto como positivo, negativo, ou neutro.
 
-Imagem: Uma captura de tela de um caderno Jupyter mostrando código e resultados para análise do sentimento usando TextBlob em três marcas de carro, com visualizações dos valores de polaridade e subjetividade. A imagem também inclui um logotipo ou ícone para a biblioteca do TextBlob.
+![alt text](https://github.com/nicolasantero/Analise-de-concorrencia-com-analise-de-sentimento/edit/main/README.md/comp_marca.png?raw=true)
