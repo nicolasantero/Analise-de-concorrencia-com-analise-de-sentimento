@@ -1,4 +1,4 @@
-# Analise-de-concorrencia-com-analise-de-sentimento
+# Análise de concorência com análise de sentimento
 
 
 Descrição: Um caderno Jupyter que foi usado na parte prática de um webinar sobre análise de concorrentes com dados. Neste caderno, a análise de sentimentos usando a biblioteca TextBlob é aplicada para comparar três marcas de carros. O notebook inclui instruções passo a passo para instalação e uso, bem como exemplos de código e visualizações. Os resultados da análise de sentimento podem ser usados para obter uma visão das opiniões e preferências dos clientes e para orientar as decisões comerciais.
